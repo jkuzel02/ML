@@ -1,0 +1,3 @@
+game_id,name,min_players,max_players,playing_time,weight,categories,mechanics,rating,rating_count,year,description,bgg_id
+1,Codenames,2,8,15,1.3,party deduction word,team-based word-association,7.7,100000,2015,Teams give one-word clues to find agents.,173346
+2,Ticket to Ride,2,5,45,1.9,family strategy trains,set-collection route-building,7.4,130000,2004,Collect cards to claim railway routes.,9209
